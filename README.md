@@ -1,10 +1,9 @@
 # ChefGPT
 ChefGPT is your personel diet planner which helps you to understand the food and their macro and micro nutrient so that you can achieve your fitness goals.
 
+![image](https://github.com/Aks9111hat/ChefGPT/assets/83699665/2205c2b3-c9b0-4cb8-9739-ffd406c017dc)
 
-
-![image](https://github.com/Aks9111hat/ChefGPT/assets/83699665/a8e6ec9a-fa9c-4ea4-aa07-d0a4a832eefd)
-![image](https://github.com/Aks9111hat/ChefGPT/assets/83699665/5a5842d5-6e2d-4c5e-92b0-1227a4a90947)
+![image](https://github.com/Aks9111hat/ChefGPT/assets/83699665/d7d18b37-ab58-4b9a-b913-20ea0c4accbc)
 
 
 
